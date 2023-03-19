@@ -45,7 +45,7 @@ class Constructor:
 STU1 = Constructor('PETR', 18, 'Balance', 20, 50, 50)
 STU2 = Constructor('SANYA', 20, 'Bed', 500, 30, 90)
 STU3 = Constructor('VASYA', 21, 'Divan', 1000, 85, 30)
-STU4 = Constructor('Alex', 19, 'Life', 20, 20, 20)
+STU4 = Constructor('ALEX', 19, 'Life', 20, 20, 20)
 
 print(f"STUNUM={Constructor.STUNUM}")
 
