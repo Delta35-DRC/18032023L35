@@ -19,6 +19,7 @@ class Auto:
         else:
             print(f"There are no passengers in {self.brand}")
 
+
 nick = Human("Nick")
 kate = Human("Kate")
 car = Auto("Mercedes")
